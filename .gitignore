@@ -11,4 +11,3 @@ package-lock.json
 .compared
 .codegen
 acceptance
-*-go/
